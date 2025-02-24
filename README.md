@@ -1,3 +1,5 @@
+**Secure Data Hiding In Images Using Steganography!**
+
 This project focuses on image-based steganography, where secret data is embedded within an image in a way that remains visually undetectable. It utilizes Python and OpenCV to encode and decode messages hidden within images while maintaining data integrity.
 
 Core Functionality :
@@ -16,7 +18,7 @@ Technical Requirements
 
 Installation
 To install the necessary dependency, run:
-pip install opencv-python
+* pip install opencv-python
 
 This project demonstrates a practical approach to data concealment, ensuring secure message transmission without raising suspicion.
 
